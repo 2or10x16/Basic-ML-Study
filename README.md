@@ -24,4 +24,4 @@
 ## 📕 Contributors
 | [bykim](https://github.com/nekh802) | [Crinex]() |
 |:---:|:---:|
-| [2or10x16](https://https://github.com/2or10x16) | [heheui](https://github.com/heheui) |
+| [2or10x16](https://github.com/2or10x16) | [heheui](https://github.com/heheui) |
